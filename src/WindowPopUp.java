@@ -13,6 +13,11 @@ public class WindowPopUp {
 		// now more steps
 		System.out.println("Test 1st line added to update 1.1 GitHub");
 		System.out.println("Test 2nd line added to update 1.1 GitHub");
+		//
+		//
+		// now more steps
+		System.out.println("Test 1st line added to update 1.2 GitHub");
+
 
 	}
 }
